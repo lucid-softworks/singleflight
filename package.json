@@ -1,6 +1,6 @@
 {
   "name": "@lucid-softworks/singleflight",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Coalesce concurrent operations by key without caching results.",
   "keywords": [
     "javascript",
